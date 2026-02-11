@@ -1,3 +1,10 @@
 # Battleship
 
-Basic academic version of Battleship game to build upon.
+Grupo TP05-5
+## 👥 Grupo
+
+| Grupo      | Curso    | Nome                     | Número  |
+|------------|----------|--------------------------|---------|
+| TP05-5     | IGE      | Miguel Quinta            | 108419  |
+| TP05-5     | IGE      | Élie Kalumba             | 110002  |
+| TP05-5     | IGE      | Michael Sewedo Dosu      | 121008  |
