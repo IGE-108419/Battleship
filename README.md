@@ -26,6 +26,7 @@ Barca	Barge	1	4
 | Nau        | Carrack  | 3                        | 2           |
 | Caravela   | Caravel  | 2                        | 3           |
 | Barca      | Barge    | 1                        | 4           |
+
 Regras de posicionamento:
 
 -Apenas horizontal ou vertical
