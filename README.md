@@ -14,7 +14,7 @@ Grupo TP05-5
 Nesta versão histórica da Batalha Naval utilizamos navios da época dos Descobrimentos.
 
 Nome (PT)	Nome (EN)	Dimensão	Quantidade
-Galeão	Galleon	5	1
+Galeão	Galleon	5	2
 Fragata	Frigate	4	1
 Nau	Carrack	3	2
 Caravela	Caravel	2	3
