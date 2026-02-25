@@ -87,7 +87,7 @@ Estes navios foram fundamentais na expansão marítima portuguesa dos séculos X
 🔗 Links úteis – Navios da época dos Descobrimentos
 
 🚢 Tipos de navios
-
+#
 - Galeão: https://pt.wikipedia.org/wiki/Gale%C3%A3o
 - Fragata: https://pt.wikipedia.org/wiki/Fragata
 - Nau : https://pt.wikipedia.org/wiki/Nau
@@ -95,7 +95,7 @@ Estes navios foram fundamentais na expansão marítima portuguesa dos séculos X
 - Barca : https://pt.wikipedia.org/wiki/Barca
 
 🌍 Contexto histórico
-
+#
 - Descobrimentos Portugueses : https://pt.wikipedia.org/wiki/Descobrimentos_portugueses
 
 
