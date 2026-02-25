@@ -29,13 +29,13 @@ Barca	Barge	1	4
 
 Regras de posicionamento:
 
--Apenas horizontal ou vertical
+-Apenas horizontal ou vertical;
 
--Não podem sobrepor-se
+-Não podem sobrepor-se;
 
--Não podem tocar-se
+-Não podem tocar-se;
 
--Podem encostar à borda da grelha
+-Podem encostar à borda da grelha;
 
 🎯 Regras do Jogo
 
@@ -43,15 +43,15 @@ Regras de posicionamento:
 
 -Cada jogador possui:
 
-  -Uma grelha com a sua frota
-
-  -Uma grelha para registar tiros no adversário
+  -Uma grelha com a sua frota;
+  
+  -Uma grelha para registar tiros no adversário;
 
 Turnos:
 
-  -Cada jogador dispara 3 tiros por turno
+  -Cada jogador dispara 3 tiros por turno;
 
-  -Os tiros são definidos por coordenadas (linha, coluna)
+  -Os tiros são definidos por coordenadas (linha, coluna);
 
   -O adversário responde com:
 
@@ -59,13 +59,13 @@ Turnos:
 
 -Acerto:
 
-  -Navio afundado
+  -Navio afundado;
 
 Condição de Vitória:
 
 -Ganha o jogador que:
 
-  -Afundar todos os navios do adversário primeiro
+  -Afundar todos os navios do adversário primeiro;
 
 🗺 Contexto Histórico
 
