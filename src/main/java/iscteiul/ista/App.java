@@ -1,7 +1,6 @@
-// Test GitHub ActionsKS
 package iscteiul.ista;
 
-import iscteiul.ista.battleship.Fleet;
+import iscteiul.ista.battleship.Scoreboard;
 import iscteiul.ista.battleship.Tasks;
 
 /**
@@ -11,14 +10,19 @@ import iscteiul.ista.battleship.Tasks;
  */
 public class App
 {
-    public static void main( String[] args )
+    public static void main(String[] args)
     {
+        System.out.printf("\n*** Battleship Game ***\n");
 
-        System.out.printf("\n***  Battleship Game ***\n");
+        Scoreboard scoreboard = Scoreboard.loadScoreboard();
+
+        scoreboard.addPlayer1Win();
+        scoreboard.printScoreboard();
+        scoreboard.saveScoreboard();
 
         // Tasks.taskA();
         Tasks.taskB();
-        //	Tasks.taskC();
-        //	Tasks.taskD();
+        // Tasks.taskC();
+        // Tasks.taskD();
     }
 }
