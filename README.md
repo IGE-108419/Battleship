@@ -95,9 +95,13 @@ Estes navios foram fundamentais na expansão marítima portuguesa dos séculos X
 - Caravela: https://pt.wikipedia.org/wiki/Caravela
 - Barca : https://pt.wikipedia.org/wiki/Barca
 
+
 🌍 Contexto histórico
 #
 - Descobrimentos Portugueses : https://pt.wikipedia.org/wiki/Descobrimentos_portugueses
 
+## Product Backlog
+As funcionalidades do jogo Battleship são organizadas em user stories
+no GitHub Issues, seguindo a metodologia Scrum.
 
 
