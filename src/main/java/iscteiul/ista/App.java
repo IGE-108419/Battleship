@@ -1,3 +1,4 @@
+// Test GitHub ActionsKS
 package iscteiul.ista;
 
 import iscteiul.ista.battleship.Fleet;
